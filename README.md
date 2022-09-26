@@ -3,7 +3,7 @@
 *My name is Efe Dallı. I'm a Jr. Front-end developer who is still learning and improving himself.*
 * 🌍  I'm based in Ankara
 * ✉️  You can contact me at [efedalli@outlook.com](mailto:efedalli@outlook.com)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning React
 
 ### Skills
 
