@@ -49,12 +49,12 @@ I work at the intersection of **biology, genomics, and computation**, focusing o
 </p>
 
 ### Bioinformatics & Genomics Tools
-- **Genome assembly & annotation**: Unicycler, SPAdes, Prokka, Bakta  
+- **Genome assembly & annotation**: Unicycler, SPAdes, Prokka, Bakta, KEGG  
 - **Comparative genomics**: Bactopia, Panaroo, PIRATE, OrthoFinder  
 - **Taxonomy & phylogenomics**: GTDB-Tk, TYGS, IQ-TREE, iTOL  
 - **AMP discovery**: Macrel, AMPEP, AMP-Scanner, AntiBP, SignalP  
-- **Variant analysis**: GATK, CNVkit, Control-FREEC, Snippy  
-- **Metagenomics**: Kraken2, Kaiju, Centrifuge, QIIME2  
+- **Variant analysis**: GATK, BCFTools, freebayes, Snippy  
+- **Metagenomics**: Kraken2, Kaiju, QIIME2  
 
 ### Workflow & Infrastructure
 <p align="left">
