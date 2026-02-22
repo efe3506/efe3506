@@ -4,7 +4,7 @@
 
 ---
 
-🧬 **PhD Candidate in Biology (Bioinformatics & Microbial Genomics)**  
+🧬 **PhD Candidate in Biology**  
 🏥 **R&D Bioinformatics Researcher – NGS & Genomic Data Analysis**  
 🌍 Based in Türkiye  
 ✉️ Contact: [efedalli@outlook.com](mailto:efedalli@outlook.com)
@@ -17,26 +17,24 @@ I work at the intersection of **biology, genomics, and computation**, focusing o
 
 ## 🔬 Research & Professional Interests
 
-- **Microbial genomics & systematics**
-  - Novel species discovery (ANI / AAI / dDDH / phylogenomics)
-  - Comparative genomics & pangenome analysis
-  - Thermophilic bacteria (Anoxybacillus, Bacillota, extremophiles)
-
-- **Antimicrobial & functional genomics**
-  - Small ORF discovery (smORFs)
-  - Antimicrobial peptide (AMP) prediction & in silico characterization
-  - Structure modeling & peptide–protein docking
-
 - **NGS bioinformatics pipelines**
-  - WGS / WES / RNA-seq / smallRNA / amplicon (16S/18S)
+  - WGS / WES / RNA-seq / smallRNA
   - Variant calling (SNV, CNV, SV)
-  - Metagenomics & metatranscriptomics
 
 - **Clinical & translational bioinformatics**
   - Rare disease genomics
   - RNA aberrant expression & splicing (MAE / FRASER / DROP)
   - Fusion detection & functional annotation
-
+    
+- **Antimicrobial & functional genomics**
+  - Small ORF discovery (smORFs)
+  - Antimicrobial peptide (AMP) prediction & in silico characterization
+  - Structure modeling & peptide–protein dockin
+    
+- **Microbial genomics & systematics**
+  - Novel species discovery (ANI / AAI / dDDH / phylogenomics)
+  - Comparative genomics & pangenome analysis
+  - Thermophilic bacteria (Anoxybacillus, Bacillota, extremophiles)
 ---
 
 ## 🧠 Technical Skill Set
@@ -63,7 +61,6 @@ I work at the intersection of **biology, genomics, and computation**, focusing o
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" />
 </p>
 
-- Nextflow (DSL2), nf-core pipelines  
 - Conda / Mamba environments  
 - HPC & Slurm-based workflows  
 - Reproducible & scalable pipeline design  
@@ -72,10 +69,7 @@ I work at the intersection of **biology, genomics, and computation**, focusing o
 ---
 
 ## 🌱 Currently Exploring
-
-- Advanced phylogenomics & evolutionary genomics  
-- Functional annotation beyond standard databases  
-- AMP structure–function relationships  
+ 
 - Multi-omics integration  
 - Workflow optimization for large-scale datasets  
 
