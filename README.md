@@ -1,13 +1,13 @@
-# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-## Hello there, I'm **Efe Dallı** 👋  
+
+## Hello there, I'm **Efe Dallı**  
 *Computational Biologist | Bioinformatics Specialist | Clinical NGS Bioinformatics*
 
 ---
 
-🧬 **PhD Candidate in Biology**  
-🏥 **R&D Bioinformatics Researcher – NGS & Genomic Data Analysis**  
-🌍 Based in Türkiye  
-✉️ Contact: [efedalli@outlook.com](mailto:efedalli@outlook.com)
+**PhD Candidate in Biology**  
+**R&D Bioinformatics Researcher – NGS & Genomic Data Analysis**  
+Based in Türkiye  
+Contact: [efedalli@outlook.com](mailto:efedalli@outlook.com)
 
 I work at the intersection of **biology, genomics, and computation**, focusing on  
 **reproducible bioinformatics pipelines**, **microbial comparative genomics**, and  
@@ -15,7 +15,7 @@ I work at the intersection of **biology, genomics, and computation**, focusing o
 
 ---
 
-## 🔬 Research & Professional Interests
+## Research & Professional Interests
 
 - **NGS bioinformatics pipelines**
   - WGS / WES / RNA-seq / smallRNA
@@ -36,7 +36,7 @@ I work at the intersection of **biology, genomics, and computation**, focusing o
   - Comparative genomics & pangenome analysis
 ---
 
-## 🧠 Technical Skill Set
+## Technical Skill Set
 
 ### Programming & Scripting
 <p align="left">
@@ -59,21 +59,21 @@ I work at the intersection of **biology, genomics, and computation**, focusing o
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
  
 - Multi-omics integration  
 - Workflow optimization for large-scale datasets  
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://www.github.com/efe3506" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/efe-dalli-917767139" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <a href="http://www.github.com/efe3506">
 <img src="https://github-readme-stats.vercel.app/api?username=efe3506&show_icons=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true" />
